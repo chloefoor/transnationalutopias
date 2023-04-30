@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/transnationalutopias/static/css/main.8f7e36b9.css",
+    "main.js": "/transnationalutopias/static/js/main.b17da9c3.js",
+    "static/js/787.0e780d48.chunk.js": "/transnationalutopias/static/js/787.0e780d48.chunk.js",
+    "static/media/emmagoldman.jpg": "/transnationalutopias/static/media/emmagoldman.fbd79a690558326beedf.jpg",
+    "static/media/luisacapetillo.jpg": "/transnationalutopias/static/media/luisacapetillo.d877832d01415dc27e40.jpg",
+    "static/media/killthecop.jpg": "/transnationalutopias/static/media/killthecop.a29ced3cab30879bceb8.jpg",
+    "static/media/irinalayevska.jpg": "/transnationalutopias/static/media/irinalayevska.2700c94bb28764cf8d79.jpg",
+    "static/media/amelioroblesavila.jpg": "/transnationalutopias/static/media/amelioroblesavila.cb61a34780dcf6c03e89.jpg",
+    "index.html": "/transnationalutopias/index.html",
+    "static/media/Anarchist_flag_2.svg": "/transnationalutopias/static/media/Anarchist_flag_2.396ef3190ca6a749ba0a62377be3313c.svg",
+    "main.8f7e36b9.css.map": "/transnationalutopias/static/css/main.8f7e36b9.css.map",
+    "main.b17da9c3.js.map": "/transnationalutopias/static/js/main.b17da9c3.js.map",
+    "787.0e780d48.chunk.js.map": "/transnationalutopias/static/js/787.0e780d48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f7e36b9.css",
+    "static/js/main.b17da9c3.js"
+  ]
+}
