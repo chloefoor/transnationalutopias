@@ -14,7 +14,7 @@ import LuisaCapetillo from './components/LuisaCapetillo';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
-  return <BrowserRouter>
+  return <BrowserRouter basename="/transnationalutopias">
     <Routes>
       <Route path="/" element={<TransnationalUtopias />}>
         <Route index element={<About />} />
